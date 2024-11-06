@@ -8,7 +8,7 @@ This script creates a basic Minecraft-like game with the following features:
 6. Basic world generation
 
 To run this game, you'll need to install the Pyglet library:
-```plaintext
+```
  pip install pyglet
 ```
 You'll also need to create a simple texture file named `texture.png`
