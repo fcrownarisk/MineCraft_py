@@ -9,7 +9,7 @@ This script creates a basic Minecraft-like game with the following features:
 
 To run this game, you'll need to install the Pyglet library:
 ```plaintext
- pip install pygletpip install pyglet
+ pip install pyglet
 ```
 You'll also need to create a simple texture file named `texture.png`
 in the same directory as the script. This file should be a 4x4 grid of 16x16 pixel textures for the different block types.
